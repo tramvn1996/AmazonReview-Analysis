@@ -1,4 +1,5 @@
-#Amazon Review
+# Amazon Review
+
 Using Spark in Python to find out what categories of stuff have the best review on Amazon
 
 According to the result, there are exactly 507 categories with 5-star review. However, these categories are not
